@@ -1,0 +1,25 @@
+.header-size{
+    background-color: white;
+    height: 70px;
+    box-shadow: 0 10px 10px rgba(0,0,0,0.2);
+}
+.phone-icon-header-color{
+    color: #f16126;
+}
+.font-in-the-header{
+    font-weight: 700;
+}
+.NavDropdown {
+    /* Styles for dropdown elements */
+  }
+  
+  .NavDropdown:hover .dropdown-menu {
+    display: block;
+  }
+  
+  .dropdown-menu {
+    display: none;
+    position: absolute;
+    /* Other styles for positioning and appearance */
+  }
+  
